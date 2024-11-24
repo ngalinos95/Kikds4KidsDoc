@@ -1,5 +1,5 @@
 # Privacy Policy for Kids4Kids
-
+## For any support contact us directly to kids4kidsbydnz@gmail.com
 _Last updated: [24/11/2024]_
 
 At Kids4Kids, your privacy is a top priority. This Privacy Policy explains how we collect, use, and protect your personal information while ensuring compliance with Apple’s App Store guidelines.
