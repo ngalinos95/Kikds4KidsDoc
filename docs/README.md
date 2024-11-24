@@ -3,7 +3,7 @@
 _Last updated: [24/11/2024]_
 
 At Kids4Kids, your privacy is a top priority. This Privacy Policy explains how we collect, use, and protect your personal information while ensuring compliance with Apple’s App Store guidelines.
-
+You can find more details on the Terms & Conditions (required) section uppon creating your new account in app
 ---
 
 ## 1. Introduction
@@ -61,7 +61,7 @@ You have the right to:
 - **Request Deletion**: Ask us to delete your personal information.
 - **Update Your Information**: Modify your email or account details as needed.
 
-To exercise these rights, please contact us at [Insert Support Email].
+To exercise these rights, please contact us at [kids4kidsbydnz@gmail.com].
 
 ---
 
